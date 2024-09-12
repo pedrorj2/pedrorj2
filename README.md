@@ -35,6 +35,6 @@ As an **Aerospace Engineering student**, my academic journey has been driven by 
 
 - **Proyecto @aeropedrax** (Active) [Youtube Channel](http://youtube.com/@aeropedrax)  
   An initiative aimed at easing the transition to university life by providing useful videos, including concise and introductory classes. The project focuses on offering accessible and valuable content to help new students navigate their first year. All resources are freely available for anyone to use.
-- **LoRaCIU** (Side-Project, Active) [Proposal Link](https://drive.google.com/file/d/1XCr5UZhO-WNDkvoavmJH12rydyfWYi3e/view?usp=sharing)  
+- **LoRaCIU** (Side-Project, Active) [Initial idea](https://drive.google.com/file/d/1XCr5UZhO-WNDkvoavmJH12rydyfWYi3e/view?usp=sharing)  
   A proposal for the [Actúa UPM 2022](https://www.upm.es/Investigacion/innovacion/CreacionEmpresas/Servicios/Competicion_Creacion_Empresas) to provide LoRaWAN coverage for IoT on the Helium Network (now running on Solana). Co-operated with another ETSIAE student.
 
