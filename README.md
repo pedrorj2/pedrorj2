@@ -1,6 +1,6 @@
 # 🚀 Pedro Rodríguez Jiménez
 
-🔭 **Currently Working On**: [AeroVault](https://aerovault.es) (avalible soon)
+🚧 **Currently Working On**: [AeroVault](https://aerovault.es) (avalible soon)
 
 🌱 **Currently Learning**: React, React Native, and MongoDB for building AeroVault
 
