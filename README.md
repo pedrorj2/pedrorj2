@@ -30,7 +30,7 @@ As an **Aerospace Engineering student**, my academic journey has been driven by 
 
 ## 🚀 Projects
 
-- **aerovault.es** (Active Soon) [Website](https://aerovault.es)  
+- **aerovault.es** (Active Soon) [Website](https://aerovault.fly.dev)  
   A web platform dedicated to providing a free and ad-free environment for students to share and access class notes, study guides, and other academic resources. This project aims to promote collaboration and mutual support among students, by prioritizing knowledge sharing without any expectations of compensation or commercial intent.
 
 - **Proyecto @aeropedrax** (Active) [Youtube Channel](http://youtube.com/@aeropedrax)  
