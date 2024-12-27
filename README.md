@@ -1,9 +1,5 @@
 # 🚀 Pedro Rodríguez Jiménez
 
-🚧 **Currently Working On**: [AeroVault](https://aerovault.es) (avalible soon)
-
-🌱 **Currently Learning**: React, React Native, and MongoDB for building AeroVault
-
 ## 👋 About Me
 
 As an **Aerospace Engineering student**, my academic journey has been driven by innovation and the practical application of programming to solve complex problems. I have a strong foundation in aerospace engineering and a deep interest in applying these through coding :)
