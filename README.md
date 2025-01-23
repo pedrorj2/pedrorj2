@@ -17,7 +17,7 @@ As an **Aerospace Engineering student**, my academic journey has been driven by 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-- **Fellowship on Autonomous Learning in Engineering** (March 2024 - Present) [Project Link](https://innovacioneducativa.upm.es/proyectos-ie/informacion?anyo=2023-2024\&id=1160)  
+- **Fellowship on Autonomous Learning in Engineering** (March 2024 - October 2024) [Project Link](https://innovacioneducativa.upm.es/proyectos-ie/informacion?anyo=2023-2024\&id=1160)  
   Participated in an educational innovation project aimed at enhancing autonomous learning for engineering students at ETSIAE. Tasks included managing databases, using APIs, and executing algorithms in the cloud using Python. This will be OpenSource in a near future, once is finished.
 
 - **GPU's Research Fellowship** (May 2023 - Oct 2023) [Paper Link](https://github.com/jahrWork/GPU-Parallel/blob/pedro/GPU_Parallel_Processing.pdf)  
