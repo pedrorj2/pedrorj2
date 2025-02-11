@@ -25,6 +25,9 @@ As an **Aerospace Engineering student**, my academic journey has been driven by 
 
 ## 🚀 Projects
 
+- **IT Solutions for Spain's Two Largest University Communities** \
+  With a combined reach of 200,000 followers, I developed dedicated websites using React.js, managed affiliate marketing campaigns, and implemented automated mass mailing systems with personalized email content for more than 20,000 users with Python and MailGun API. Additionally, I created custom technological solutions tailored to the needs of these communities, streamlining their digital infrastructure and enhancing user engagement.
+
 - **aerovault.es** (Active Soon) [Website](https://aerovault.fly.dev)  
   A web platform dedicated to providing a free and ad-free environment for students to share and access class notes, study guides, and other academic resources. This project aims to promote collaboration and mutual support among students, by prioritizing knowledge sharing without any expectations of compensation or commercial intent.
 
