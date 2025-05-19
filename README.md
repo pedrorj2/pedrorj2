@@ -6,8 +6,9 @@ As an **Aerospace Engineering student**, my academic journey has been driven by 
 
 ## 🎓 Education
 
-- **2020 - Present**: Bachelor’s Degree in Aerospace Engineering at **ETSIAE - UPM University**  
+- **09/2020 - 09/2025**: Bachelor’s Degree in Aerospace Engineering at **ETSIAE - UPM University, MAD, Spain**  
   Specialized in Ciencias y Tecnologías Aeroespaciales (CTA).
+- **02/2025 - 08/25**: Open Innovation & Entrepreneurship in Asia at **Tongji University, Shanghai, China**, sponsored by **UPM University**
 
 ## 💼 Experience
 
