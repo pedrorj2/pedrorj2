@@ -42,9 +42,10 @@ Skilled in **Python, MATLAB, Julia, Fortran, and C/CUDA**, with practical experi
 
 ## 🚀 Projects
 
-- **IT Solutions for Spain's Two Largest University Communities** (Active) [Instagram](https://www.instagram.com/linkers.madrid)
-  - With a combined reach of 200,000+ followers, I developed dedicated websites using **React.js** and created backend automation tools.
-  - Implemented automated mass mailing systems and custom mail content for 20,000+ users via **Python and MailGun API**, maintaining scalability and cost efficiency.
+- **IT Solutions for Spain's Two Largest University Communities** (Active) [applinkers.com](https://applinkers.com)
+  - Platform serving multiple university communities (Linkers Madrid, Salseo USC, and others) with a combined reach of 200,000+ followers.
+  - Developed dedicated websites using **Django and Bootstrap** and created backend automation tools.
+  - Implemented automated mass mailing systems and custom mail content for 20,000+ users via **Python and Scaleway Transactional Email**, maintaining scalability and cost efficiency.
   - Managed affiliate marketing campaigns and created custom technological solutions to streamline digital infrastructure.
 
 - **Personal Home Lab** (Ongoing)
