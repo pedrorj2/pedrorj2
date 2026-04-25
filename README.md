@@ -1,5 +1,10 @@
 # 🚀 Pedro Rodríguez Jiménez
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-pedrorj2-stats.vercel.app/api/card?username=pedrorj2&amp;theme=dark&amp;nocache=1">
+    <img alt="github-stats" src="https://github-pedrorj2-stats.vercel.app/api/card?username=pedrorj2&amp;theme=light&amp;v=6">
+  </picture>
+
 ## 👋 About Me
 
 Aerospace Engineer with a solid background in numerical modeling, high-performance computing, and scientific programming. Currently pursuing a **Master’s Degree in Industrial Mathematics** focused on HPC and simulation.
