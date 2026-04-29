@@ -47,7 +47,7 @@ Skilled in **Python, MATLAB, Julia, Fortran, and C/CUDA**, with practical experi
 
 ## 🚀 Projects
 
-- **IT Solutions for Spain's Two Largest University Communities** (Active) [applinkers.com](https://applinkers.com)
+- **IT Solutions for Spain's Two Largest University Communities** (Active) [applinkers.com](https://applinkers.com/about)
   - Platform serving multiple university communities (Linkers Madrid, Salseo USC, and others) with a combined reach of 200,000+ followers.
   - Developed dedicated websites using **Django and Bootstrap** and created backend automation tools.
   - Implemented automated mass mailing systems and custom mail content for 20,000+ users via **Python and Scaleway Transactional Email**, maintaining scalability and cost efficiency.
