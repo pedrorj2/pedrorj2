@@ -1,6 +1,6 @@
 # 🚀 Pedro Rodríguez Jiménez
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-pedrorj2.com-0A0A0A?style=for-the-badge&logo=astro&logoColor=white)](https://pedrorj2.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pedrorj2.com-0A0A0A?style=for-the-badge&logo=astro&logoColor=white)](https://www.pedrorj2.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pedro--rjcl-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rjcl/)
 [![Email](https://img.shields.io/badge/Email-hello@pedrorj2.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@pedrorj2.com)
 
