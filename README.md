@@ -11,7 +11,7 @@
 
 ## 👋 About Me
 
-Aerospace engineer turned full-stack builder. Currently pursuing an **MSc in Industrial Mathematics (MUMI)** at UPM, focused on numerical modelling, HPC and PDE solvers. I split my time between scientific computing (CUDA, Julia, Fortran), web platforms (Django, Astro) and entrepreneurship.
+Aerospace engineer turned full-stack builder. Currently pursuing an **MSc in Industrial Mathematics (MUMI)** at UPM, focused on numerical modelling, HPC and PDE solvers. I split my time between scientific computing (Julia, Fortran), web platforms (Django, Astro) and entrepreneurship.
 
 I run **[AppLinkers](https://applinkers.com/about)**, a platform serving Spain's largest university communities, with **200,000+ combined followers**, and I'm a **2026 ASCENT Fellow** (UPM × MIT aerospace-innovation pilot, finals at MIT + Harvard this June).
 
@@ -33,7 +33,6 @@ I run **[AppLinkers](https://applinkers.com/about)**, a platform serving Spain's
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
@@ -63,7 +62,7 @@ I run **[AppLinkers](https://applinkers.com/about)**, a platform serving Spain's
 
 - **GPU Research Fellow, Center for Computational Simulation (CCS), UPM** *(May 2023 to Oct 2023)*
   - Comparative CPU vs GPU benchmarks for matrix-intensive scientific simulation.
-  - Implementations across **Fortran, C/CUDA, MATLAB, Python**.
+  - Implementations across **Fortran, C, MATLAB, Python**.
   - [Paper](https://github.com/jahrWork/GPU-Parallel/blob/pedro/GPU_Parallel_Processing.pdf)
 
 - **Visit Director, LEVEL Association, ETSIAE** *(Sep 2022 to Feb 2025)*
