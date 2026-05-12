@@ -4,11 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pedro--rjcl-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rjcl/)
 [![Email](https://img.shields.io/badge/Email-hello@pedrorj2.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@pedrorj2.com)
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-pedrorj2-stats.vercel.app/api/card?username=pedrorj2&amp;theme=dark&amp;nocache=1">
-    <img alt="github-stats" src="https://github-pedrorj2-stats.vercel.app/api/card?username=pedrorj2&amp;theme=light&amp;v=6">
-</picture>
-
 ## 👋 About Me
 
 Aerospace engineer turned full-stack builder. Currently pursuing an **MSc in Industrial Mathematics (MUMI)** at UPM, focused on numerical modelling, HPC and PDE solvers. I split my time between scientific computing (Julia, Fortran), web platforms (Django, Astro) and entrepreneurship.
