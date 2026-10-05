@@ -77,7 +77,7 @@ I run **[AppLinkers](https://applinkers.com/about)**, a platform serving Spain's
 
 ## 📬 Contact
 
-- 🌐 **[pedrorj2.com](https://pedrorj2.com)**
+- 🌐 **[pedrorodriguezjimenez.com](https://pedrorodriguezjimenez.com)**
 - 📧 [hello@pedrorj2.com](mailto:hello@pedrorj2.com)
 - 💼 [linkedin.com/in/pedro-rjcl](https://linkedin.com/in/pedro-rjcl/)
 - 📺 [@aeropedrax on YouTube](https://youtube.com/@aeropedrax)
